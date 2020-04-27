@@ -7,9 +7,10 @@ class Navbar extends Component {
 
                 <h1>Context App</h1>
                 <ul>
-                    <li>Homee</li>
+                    <li>Home</li>
                     <li>About</li>
-                    <li>Contact</li>
+                    <li>Cont
+                        act</li>
                     
                 </ul>
             </nav>
